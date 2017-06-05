@@ -1,0 +1,49 @@
+C:\Users\Igor\AppData\Local\Temporary Projects\PianoKeyboard\bin\Debug\PianoKeyboard.exe
+C:\Users\Igor\AppData\Local\Temporary Projects\PianoKeyboard\bin\Debug\PianoKeyboard.pdb
+C:\Users\Igor\AppData\Local\Temporary Projects\PianoKeyboard\obj\x86\Debug\PianoKeyboard.Form1.resources
+C:\Users\Igor\AppData\Local\Temporary Projects\PianoKeyboard\obj\x86\Debug\PianoKeyboard.Properties.Resources.resources
+C:\Users\Igor\AppData\Local\Temporary Projects\PianoKeyboard\obj\x86\Debug\PianoKeyboard.csproj.GenerateResource.Cache
+C:\Users\Igor\AppData\Local\Temporary Projects\PianoKeyboard\obj\x86\Debug\PianoKeyboard.exe
+C:\Users\Igor\AppData\Local\Temporary Projects\PianoKeyboard\obj\x86\Debug\PianoKeyboard.pdb
+C:\Users\Igor\Desktop\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.exe
+C:\Users\Igor\Desktop\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.pdb
+C:\Users\Igor\Desktop\PianoKeyboard\PianoKeyboard\bin\Debug\PianoKeyboard.exe
+C:\Users\Igor\Desktop\PianoKeyboard\PianoKeyboard\bin\Debug\PianoKeyboard.pdb
+C:\Users\Igor\Desktop\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.Form1.resources
+C:\Users\Igor\Desktop\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.Properties.Resources.resources
+C:\Users\Igor\Desktop\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.csproj.GenerateResource.Cache
+C:\Users\Igor\Desktop\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.exe
+C:\Users\user\Downloads\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.pdb
+C:\Users\user\Downloads\PianoKeyboard\PianoKeyboard\bin\Debug\PianoKeyboard.exe
+C:\Users\user\Downloads\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.Form1.resources
+C:\Users\user\Downloads\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.Properties.Resources.resources
+C:\Users\user\Downloads\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\PianoKeyboard\PianoKeyboard\bin\Debug\PianoKeyboard.pdb
+E:\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.exe
+E:\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.pdb
+E:\PianoKeyboard\PianoKeyboard\bin\Debug\PianoKeyboard.exe
+E:\PianoKeyboard\PianoKeyboard\bin\Debug\PianoKeyboard.pdb
+E:\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.csprojResolveAssemblyReference.cache
+E:\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.Form1.resources
+E:\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.Properties.Resources.resources
+E:\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.csproj.GenerateResource.Cache
+D:\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.exe
+D:\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.pdb
+F:\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.exe
+F:\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.pdb
+D:\PianoKeyboard\PianoKeyboard\bin\Debug\PianoKeyboard.exe
+D:\PianoKeyboard\PianoKeyboard\bin\Debug\PianoKeyboard.pdb
+D:\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.csprojResolveAssemblyReference.cache
+D:\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.Form1.resources
+D:\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.Properties.Resources.resources
+D:\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.csproj.GenerateResource.Cache
+C:\Users\IgorSoares\Desktop\PianoKeyboard\PianoKeyboard\bin\Debug\PianoKeyboard.exe
+C:\Users\IgorSoares\Desktop\PianoKeyboard\PianoKeyboard\bin\Debug\PianoKeyboard.pdb
+C:\Users\IgorSoares\Desktop\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.csprojResolveAssemblyReference.cache
+C:\Users\IgorSoares\Desktop\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.Form1.resources
+C:\Users\IgorSoares\Desktop\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.Properties.Resources.resources
+C:\Users\IgorSoares\Desktop\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.csproj.GenerateResource.Cache
+C:\Users\IgorSoares\Desktop\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.exe
+C:\Users\IgorSoares\Desktop\PianoKeyboard\PianoKeyboard\obj\x86\Debug\PianoKeyboard.pdb
