@@ -1,0 +1,18 @@
+c:\users\igorsoares\documents\visual studio 2017\Projects\AutoIncrementVersions\AutoIncrementVersions\bin\Debug\AutoIncrementVersions.exe.config
+c:\users\igorsoares\documents\visual studio 2017\Projects\AutoIncrementVersions\AutoIncrementVersions\bin\Debug\AutoIncrementVersions.exe
+c:\users\igorsoares\documents\visual studio 2017\Projects\AutoIncrementVersions\AutoIncrementVersions\bin\Debug\AutoIncrementVersions.pdb
+c:\users\igorsoares\documents\visual studio 2017\Projects\AutoIncrementVersions\AutoIncrementVersions\obj\Debug\AutoIncrementVersions.csprojResolveAssemblyReference.cache
+c:\users\igorsoares\documents\visual studio 2017\Projects\AutoIncrementVersions\AutoIncrementVersions\obj\Debug\AutoIncrementVersions.Form1.resources
+c:\users\igorsoares\documents\visual studio 2017\Projects\AutoIncrementVersions\AutoIncrementVersions\obj\Debug\AutoIncrementVersions.Properties.Resources.resources
+c:\users\igorsoares\documents\visual studio 2017\Projects\AutoIncrementVersions\AutoIncrementVersions\obj\Debug\AutoIncrementVersions.csproj.GenerateResource.Cache
+c:\users\igorsoares\documents\visual studio 2017\Projects\AutoIncrementVersions\AutoIncrementVersions\obj\Debug\AutoIncrementVersions.exe
+c:\users\igorsoares\documents\visual studio 2017\Projects\AutoIncrementVersions\AutoIncrementVersions\obj\Debug\AutoIncrementVersions.pdb
+C:\Users\IgorSoares\Desktop\AutoIncrementVersions\AutoIncrementVersions\bin\Debug\AutoIncrementVersions.exe.config
+C:\Users\IgorSoares\Desktop\AutoIncrementVersions\AutoIncrementVersions\bin\Debug\AutoIncrementVersions.exe
+C:\Users\IgorSoares\Desktop\AutoIncrementVersions\AutoIncrementVersions\bin\Debug\AutoIncrementVersions.pdb
+C:\Users\IgorSoares\Desktop\AutoIncrementVersions\AutoIncrementVersions\obj\Debug\AutoIncrementVersions.csprojResolveAssemblyReference.cache
+C:\Users\IgorSoares\Desktop\AutoIncrementVersions\AutoIncrementVersions\obj\Debug\AutoIncrementVersions.Form1.resources
+C:\Users\IgorSoares\Desktop\AutoIncrementVersions\AutoIncrementVersions\obj\Debug\AutoIncrementVersions.Properties.Resources.resources
+C:\Users\IgorSoares\Desktop\AutoIncrementVersions\AutoIncrementVersions\obj\Debug\AutoIncrementVersions.csproj.GenerateResource.Cache
+C:\Users\IgorSoares\Desktop\AutoIncrementVersions\AutoIncrementVersions\obj\Debug\AutoIncrementVersions.exe
+C:\Users\IgorSoares\Desktop\AutoIncrementVersions\AutoIncrementVersions\obj\Debug\AutoIncrementVersions.pdb
