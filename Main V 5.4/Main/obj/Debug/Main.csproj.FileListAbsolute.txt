@@ -1,0 +1,519 @@
+C:\Users\MarcoMartins\Desktop\Main\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Main\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\Main\Main\obj\Debug\Main.Form_Main.resources
+C:\Users\MarcoMartins\Desktop\Main\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\Main\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\Main\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main (V.00.00)\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Main (V.00.00)\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main (V.00.00)\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main Beta\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Main Beta\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main Beta\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main Beta\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main Beta\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main Beta\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\Main Beta\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\Main Beta\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\Main Beta\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\Main Beta\Main\bin\Debug\UserInactivityMonitoring.dll
+C:\Users\MarcoMartins\Desktop\Main Beta\Main\obj\Debug\Main.ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\Main Beta\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\Main Beta\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.1)\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.1)\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.1)\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.1)\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.1)\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.1)\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.1)\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.1)\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.1)\Main\bin\Debug\UserInactivityMonitoring.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.1)\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.1)\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.1)\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.1)\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.1)\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.1)\Main\obj\Debug\Main.ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.1)\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.2)\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.2)\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.2)\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.2)\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.2)\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.2)\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.2)\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.2)\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.2)\Main\bin\Debug\UserInactivityMonitoring.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.2)\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.2)\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.2)\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.2)\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.2)\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.2)\Main\obj\Debug\Main.ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.2)\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.25)\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.25)\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.25)\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.25)\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.25)\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.25)\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.25)\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.25)\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.25)\Main\bin\Debug\UserInactivityMonitoring.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.25)\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.25)\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.25)\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.25)\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.25)\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.25)\Main\obj\Debug\Main.ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.25)\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.3)\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.3)\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.3)\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.3)\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.3)\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.3)\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.3)\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.3)\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.3)\Main\bin\Debug\UserInactivityMonitoring.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.3)\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.3)\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.3)\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.3)\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.3)\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.3)\Main\obj\Debug\Main.ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.3)\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.4)\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.4)\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.4)\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.4)\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.4)\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.4)\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.4)\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.4)\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.4)\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.4)\Main\obj\Debug\Main.ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.4)\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.4)\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.4)\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.4)\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.4)\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.5)\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.5)\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.5)\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.5)\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.5)\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.5)\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.5)\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.5)\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.5)\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.5)\Main\obj\Debug\Main.ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.5)\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.5)\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.5)\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.5)\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main Beta (V.0.5)\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Pap\Programa Kiosk\Main Beta (V.0.5)\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Pap\Programa Kiosk\Main Beta (V.0.5)\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Pap\Programa Kiosk\Main Beta (V.0.5)\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Pap\Programa Kiosk\Main Beta (V.0.5)\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\Pap\Programa Kiosk\Main Beta (V.0.5)\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Pap\Programa Kiosk\Main Beta (V.0.5)\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Pap\Programa Kiosk\Main Beta (V.0.5)\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Pap\Programa Kiosk\Main Beta (V.0.5)\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Pap\Programa Kiosk\Main Beta (V.0.5)\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Pap\Programa Kiosk\Main Beta (V.0.5)\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Pap\Programa Kiosk\Main Beta (V.0.5)\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\Pap\Programa Kiosk\Main Beta (V.0.5)\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\Pap\Programa Kiosk\Main Beta (V.0.5)\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\Pap\Programa Kiosk\Main Beta (V.0.5)\Main\obj\Debug\Main.ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\Pap\Programa Kiosk\Main Beta (V.0.5)\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\Pap\Programa Kiosk\Main Beta (V.0.5)\Main\obj\Debug\Main.Frm_Logout.resources
+C:\Users\MarcoMartins\Desktop\Main V 1.0 Beta\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Main V 1.0 Beta\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main V 1.0 Beta\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main V 1.0 Beta\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\Main V 1.0 Beta\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main V 1.0 Beta\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main V 1.0 Beta\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main V 1.0 Beta\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main V 1.0 Beta\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main V 1.0 Beta\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main V 1.0 Beta\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\Main V 1.0 Beta\Main\obj\Debug\Main.Frm_Logout.resources
+C:\Users\MarcoMartins\Desktop\Main V 1.0 Beta\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\Main V 1.0 Beta\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\Main V 1.0 Beta\Main\obj\Debug\Main.ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\Main V 1.0 Beta\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.0 Beta\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.0 Beta\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.0 Beta\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.0 Beta\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.0 Beta\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.0 Beta\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.0 Beta\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.0 Beta\Main\obj\Debug\Main.Frm_Logout.resources
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.0 Beta\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.0 Beta\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.0 Beta\Main\obj\Debug\Main.ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.0 Beta\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.0 Beta\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.0 Beta\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.0 Beta\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.0 Beta\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.5 Beta\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.5 Beta\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.5 Beta\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.5 Beta\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.5 Beta\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.5 Beta\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.5 Beta\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.5 Beta\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.5 Beta\Main\obj\Debug\Main.Frm_Logout.resources
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.5 Beta\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.5 Beta\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.5 Beta\Main\obj\Debug\Main.ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.5 Beta\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.5 Beta\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.5 Beta\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 1.5 Beta\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.0 Beta\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.0 Beta\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.0 Beta\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.0 Beta\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.0 Beta\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.0 Beta\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.0 Beta\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.0 Beta\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.0 Beta\Main\obj\Debug\Main.Frm_Logout.resources
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.0 Beta\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.0 Beta\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.0 Beta\Main\obj\Debug\Main.ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.0 Beta\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.0 Beta\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.0 Beta\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.5 Beta\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.5 Beta\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.5 Beta\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.5 Beta\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.5 Beta\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.5 Beta\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.5 Beta\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.5 Beta\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.5 Beta\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.5 Beta\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.5 Beta\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.5 Beta\Main\obj\Debug\Main.Frm_Logout.resources
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.5 Beta\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.5 Beta\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.5 Beta\Main\obj\Debug\Main.ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\New Versions\Main V 2.5 Beta\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\Versions  3.5\Main V 2.5 Beta\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Versions  3.5\Main V 2.5 Beta\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions  3.5\Main V 2.5 Beta\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions  3.5\Main V 2.5 Beta\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\Versions  3.5\Main V 2.5 Beta\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Versions  3.5\Main V 2.5 Beta\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Versions  3.5\Main V 2.5 Beta\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Versions  3.5\Main V 2.5 Beta\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Versions  3.5\Main V 2.5 Beta\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions  3.5\Main V 2.5 Beta\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions  3.5\Main V 2.5 Beta\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\Versions  3.5\Main V 2.5 Beta\Main\obj\Debug\Main.Frm_Logout.resources
+C:\Users\MarcoMartins\Desktop\Versions  3.5\Main V 2.5 Beta\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\Versions  3.5\Main V 2.5 Beta\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\Versions  3.5\Main V 2.5 Beta\Main\obj\Debug\Main.ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\Versions  3.5\Main V 2.5 Beta\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\Versions  4.0\Main V 2.5 Beta\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Versions  4.0\Main V 2.5 Beta\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions  4.0\Main V 2.5 Beta\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions  4.0\Main V 2.5 Beta\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\Versions  4.0\Main V 2.5 Beta\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Versions  4.0\Main V 2.5 Beta\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Versions  4.0\Main V 2.5 Beta\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Versions  4.0\Main V 2.5 Beta\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Versions  4.0\Main V 2.5 Beta\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions  4.0\Main V 2.5 Beta\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions  4.0\Main V 2.5 Beta\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\Versions  4.0\Main V 2.5 Beta\Main\obj\Debug\Main.Frm_Logout.resources
+C:\Users\MarcoMartins\Desktop\Versions  4.0\Main V 2.5 Beta\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\Versions  4.0\Main V 2.5 Beta\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\Versions  4.0\Main V 2.5 Beta\Main\obj\Debug\Main.ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\Versions  4.0\Main V 2.5 Beta\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\Versions  4.0\Main V 3.0 Beta\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Versions  4.0\Main V 3.0 Beta\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions  4.0\Main V 3.0 Beta\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions  4.0\Main V 3.0 Beta\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\Versions  4.0\Main V 3.0 Beta\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Versions  4.0\Main V 3.0 Beta\Main\obj\Debug\Main.pdb
+C:\Users\Unkown Device\Desktop\Versions  4.5\Main V 3.0 Beta\Main\bin\Debug\Main.exe.config
+C:\Users\Unkown Device\Desktop\Versions  4.5\Main V 3.0 Beta\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\Unkown Device\Desktop\Versions  4.5\Main V 3.0 Beta\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Unkown Device\Desktop\Versions  4.5\Main V 3.0 Beta\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\Unkown Device\Desktop\Versions  4.5\Main V 3.0 Beta\Main\obj\Debug\Main.exe
+C:\Users\Unkown Device\Desktop\Versions  4.5\Main V 3.0 Beta\Main\obj\Debug\Main.pdb
+C:\Users\Unkown Device\Desktop\Versions  4.7\Main V 3.0 Beta\Main\bin\Debug\Main.exe.config
+C:\Users\Unkown Device\Desktop\Versions  4.7\Main V 3.0 Beta\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\Unkown Device\Desktop\Versions  4.7\Main V 3.0 Beta\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Unkown Device\Desktop\Versions  4.7\Main V 3.0 Beta\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\Unkown Device\Desktop\Versions  4.7\Main V 3.0 Beta\Main\obj\Debug\Main.exe
+C:\Users\Unkown Device\Desktop\Versions  4.7\Main V 3.0 Beta\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Versions  4.7\Main V 3.0 Beta\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Versions  4.7\Main V 3.0 Beta\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions  4.7\Main V 3.0 Beta\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions  4.7\Main V 3.0 Beta\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\Versions  4.7\Main V 3.0 Beta\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Versions  4.7\Main V 3.0 Beta\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Versions  4.7\Main V 3.0 Beta\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Versions  4.7\Main V 3.0 Beta\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Versions  4.7\Main V 3.0 Beta\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions  4.7\Main V 3.0 Beta\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions  4.7\Main V 3.0 Beta\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\Versions  4.7\Main V 3.0 Beta\Main\obj\Debug\Main.Frm_Logout.resources
+C:\Users\MarcoMartins\Desktop\Versions  4.7\Main V 3.0 Beta\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\Versions  4.7\Main V 3.0 Beta\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\Versions  4.7\Main V 3.0 Beta\Main\obj\Debug\Main.ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\Versions  4.7\Main V 3.0 Beta\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\Versions 4\Main V 3.0 Beta\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Versions 4\Main V 3.0 Beta\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions 4\Main V 3.0 Beta\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions 4\Main V 3.0 Beta\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\Versions 4\Main V 3.0 Beta\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Versions 4\Main V 3.0 Beta\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Versions 4\Main V 3.0 Beta\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Versions 4\Main V 3.0 Beta\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Versions 4\Main V 3.0 Beta\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions 4\Main V 3.0 Beta\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions 4\Main V 3.0 Beta\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\Versions 4\Main V 3.0 Beta\Main\obj\Debug\Main.Frm_Logout.resources
+C:\Users\MarcoMartins\Desktop\Versions 4\Main V 3.0 Beta\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\Versions 4\Main V 3.0 Beta\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\Versions 4\Main V 3.0 Beta\Main\obj\Debug\Main.ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\Versions 4\Main V 3.0 Beta\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\Versions\Main V 3.0 Beta\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Versions\Main V 3.0 Beta\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions\Main V 3.0 Beta\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions\Main V 3.0 Beta\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\Versions\Main V 3.0 Beta\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Versions\Main V 3.0 Beta\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Versions\Main V 3.0 Beta\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Versions\Main V 3.0 Beta\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Versions\Main V 3.0 Beta\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions\Main V 3.0 Beta\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions\Main V 3.0 Beta\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\Versions\Main V 3.0 Beta\Main\obj\Debug\Main.Frm_Logout.resources
+C:\Users\MarcoMartins\Desktop\Versions\Main V 3.0 Beta\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\Versions\Main V 3.0 Beta\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\Versions\Main V 3.0 Beta\Main\obj\Debug\Main.ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\Versions\Main V 3.0 Beta\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.0 Beta\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.0 Beta\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.0 Beta\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.0 Beta\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.0 Beta\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.0 Beta\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.0 Beta\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.0 Beta\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.0 Beta\Main\obj\Debug\Main.Frm_Logout.resources
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.0 Beta\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.0 Beta\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.0 Beta\Main\obj\Debug\Main.ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.0 Beta\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.0 Beta\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.0 Beta\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.0 Beta\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.5 Beta\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.5 Beta\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.5 Beta\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.5 Beta\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.5 Beta\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.5 Beta\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.5 Beta\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.5 Beta\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.5 Beta\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.5 Beta\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.5 Beta\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.5 Beta\Main\obj\Debug\Main.Frm_Logout.resources
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.5 Beta\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.5 Beta\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.5 Beta\Main\obj\Debug\Main.ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 3.5 Beta\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.0 Beta\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.0 Beta\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.0 Beta\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.0 Beta\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.0 Beta\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.0 Beta\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.0 Beta\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.0 Beta\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.0 Beta\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.0 Beta\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.0 Beta\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.0 Beta\Main\obj\Debug\Main.Frm_Logout.resources
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.0 Beta\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.0 Beta\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.0 Beta\Main\obj\Debug\Main.ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.0 Beta\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.1 Beta\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.1 Beta\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.1 Beta\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.1 Beta\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.1 Beta\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.1 Beta\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.1 Beta\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.1 Beta\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.1 Beta\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.1 Beta\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.1 Beta\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.1 Beta\Main\obj\Debug\Main.Frm_Logout.resources
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.1 Beta\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.1 Beta\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.1 Beta\Main\obj\Debug\Main.ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\Versions 4.7\Main V 4.1 Beta\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\  \Kiosk 5.0\Main V 4.1 Beta\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\  \Kiosk 5.0\Main V 4.1 Beta\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\  \Kiosk 5.0\Main V 4.1 Beta\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\  \Kiosk 5.0\Main V 4.1 Beta\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\  \Kiosk 5.0\Main V 4.1 Beta\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\  \Kiosk 5.0\Main V 4.1 Beta\Main\obj\Debug\Main.pdb
+C:\Users\goncalopereira\Desktop\Kiosk 5.0\Main V 4.1 Beta\Main\bin\Debug\Main.exe.config
+C:\Users\goncalopereira\Desktop\Kiosk 5.0\Main V 4.1 Beta\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\goncalopereira\Desktop\Kiosk 5.0\Main V 4.1 Beta\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\goncalopereira\Desktop\Kiosk 5.0\Main V 4.1 Beta\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\goncalopereira\Desktop\Kiosk 5.0\Main V 4.1 Beta\Main\obj\Debug\Main.exe
+C:\Users\goncalopereira\Desktop\Kiosk 5.0\Main V 4.1 Beta\Main\obj\Debug\Main.pdb
+C:\Users\goncalopereira\Desktop\Kiosk 5.0\Main V 4.1 Beta\Main\bin\Debug\Main.exe
+C:\Users\goncalopereira\Desktop\Kiosk 5.0\Main V 4.1 Beta\Main\bin\Debug\Main.pdb
+C:\Users\goncalopereira\Desktop\Kiosk 5.0\Main V 4.1 Beta\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\goncalopereira\Desktop\Kiosk 5.0\Main V 4.1 Beta\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\goncalopereira\Desktop\Kiosk 5.0\Main V 4.1 Beta\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\goncalopereira\Desktop\Kiosk 5.0\Main V 4.1 Beta\Main\obj\Debug\Main.Frm_Logout.resources
+C:\Users\goncalopereira\Desktop\Kiosk 5.0\Main V 4.1 Beta\Main\obj\Debug\Main.Main.resources
+C:\Users\goncalopereira\Desktop\Kiosk 5.0\Main V 4.1 Beta\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\goncalopereira\Desktop\Kiosk 5.0\Main V 4.1 Beta\Main\obj\Debug\Main.ScreenSaver.resources
+C:\Users\goncalopereira\Desktop\Kiosk 5.0\Main V 4.1 Beta\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\goncalopereira\Desktop\Main V 4.1 Beta\Main\bin\Debug\Main.exe.config
+C:\Users\goncalopereira\Desktop\Main V 4.1 Beta\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\goncalopereira\Desktop\Main V 4.1 Beta\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\goncalopereira\Desktop\Main V 4.1 Beta\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\goncalopereira\Desktop\Main V 4.1 Beta\Main\obj\Debug\Main.exe
+C:\Users\goncalopereira\Desktop\Main V 4.1 Beta\Main\obj\Debug\Main.pdb
+C:\Users\goncalopereira\Desktop\Main V 4.1 Beta\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\goncalopereira\Desktop\Main V 4.1 Beta\Main\obj\Debug\Main.Frm_Logout.resources
+C:\Users\goncalopereira\Desktop\Main V 4.1 Beta\Main\obj\Debug\Main.Main.resources
+C:\Users\goncalopereira\Desktop\Main V 4.1 Beta\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\goncalopereira\Desktop\Main V 4.1 Beta\Main\obj\Debug\Main.Frm_ScreenSaver.resources
+C:\Users\goncalopereira\Desktop\Main V 4.1 Beta\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\goncalopereira\Desktop\Main V 4.1 Beta\Main\bin\Debug\Main.exe
+C:\Users\goncalopereira\Desktop\Main V 4.1 Beta\Main\bin\Debug\Main.pdb
+C:\Users\goncalopereira\Desktop\Main V 4.1 Beta\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\goncalopereira\Desktop\Main V 4.1 Beta\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\goncalopereira\Desktop\Main V 5.0\Main\bin\Debug\Main.exe.config
+C:\Users\goncalopereira\Desktop\Main V 5.0\Main\bin\Debug\Main.exe
+C:\Users\goncalopereira\Desktop\Main V 5.0\Main\bin\Debug\Main.pdb
+C:\Users\goncalopereira\Desktop\Main V 5.0\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\goncalopereira\Desktop\Main V 5.0\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\goncalopereira\Desktop\Main V 5.0\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\goncalopereira\Desktop\Main V 5.0\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\goncalopereira\Desktop\Main V 5.0\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\goncalopereira\Desktop\Main V 5.0\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\goncalopereira\Desktop\Main V 5.0\Main\obj\Debug\Main.Frm_Logout.resources
+C:\Users\goncalopereira\Desktop\Main V 5.0\Main\obj\Debug\Main.Main.resources
+C:\Users\goncalopereira\Desktop\Main V 5.0\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\goncalopereira\Desktop\Main V 5.0\Main\obj\Debug\Main.Frm_ScreenSaver.resources
+C:\Users\goncalopereira\Desktop\Main V 5.0\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\goncalopereira\Desktop\Main V 5.0\Main\obj\Debug\Main.exe
+C:\Users\goncalopereira\Desktop\Main V 5.0\Main\obj\Debug\Main.pdb
+C:\Users\goncalopereira\Desktop\Main V 5.0\Main\obj\Debug\Main.SplashScreen.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.0\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Main V 5.0\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main V 5.0\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main V 5.0\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\Main V 5.0\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main V 5.0\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main V 5.0\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main V 5.0\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main V 5.0\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main V 5.0\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main V 5.0\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\Main V 5.0\Main\obj\Debug\Main.Frm_Logout.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.0\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.0\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.0\Main\obj\Debug\Main.Frm_ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.0\Main\obj\Debug\Main.SplashScreen.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.0\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\Main V 5.1\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Main V 5.1\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main V 5.1\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main V 5.1\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\Main V 5.1\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main V 5.1\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main V 5.1\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main V 5.1\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main V 5.1\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main V 5.1\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main V 5.1\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\Main V 5.1\Main\obj\Debug\Main.Frm_Logout.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.1\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.1\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.1\Main\obj\Debug\Main.Frm_ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.1\Main\obj\Debug\Main.SplashScreen.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.1\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\Main V 5.2\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Main V 5.2\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main V 5.2\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main V 5.2\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\Main V 5.2\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main V 5.2\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main V 5.2\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main V 5.2\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main V 5.2\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main V 5.2\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main V 5.2\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\Main V 5.2\Main\obj\Debug\Main.Frm_Logout.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.2\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.2\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.2\Main\obj\Debug\Main.Frm_ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.2\Main\obj\Debug\Main.SplashScreen.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.2\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\Main V 5.3\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Main V 5.3\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main V 5.3\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main V 5.3\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\Main V 5.3\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main V 5.3\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main V 5.3\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\Main V 5.3\Main\obj\Debug\Main.Frm_Logout.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.3\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.3\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.3\Main\obj\Debug\Main.Frm_ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.3\Main\obj\Debug\Main.SplashScreen.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.3\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\MarcoMartins\Desktop\Main V 5.3\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main V 5.3\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main V 5.3\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main V 5.3\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main V 5.4\Main\bin\Debug\Main.exe.config
+C:\Users\MarcoMartins\Desktop\Main V 5.4\Main\obj\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main V 5.4\Main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main V 5.4\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+C:\Users\MarcoMartins\Desktop\Main V 5.4\Main\obj\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main V 5.4\Main\obj\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main V 5.4\Main\bin\Debug\Main.exe
+C:\Users\MarcoMartins\Desktop\Main V 5.4\Main\bin\Debug\Main.pdb
+C:\Users\MarcoMartins\Desktop\Main V 5.4\Main\bin\Debug\Interop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main V 5.4\Main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MarcoMartins\Desktop\Main V 5.4\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\MarcoMartins\Desktop\Main V 5.4\Main\obj\Debug\Main.Frm_Logout.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.4\Main\obj\Debug\Main.Main.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.4\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.4\Main\obj\Debug\Main.Frm_ScreenSaver.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.4\Main\obj\Debug\Main.SplashScreen.resources
+C:\Users\MarcoMartins\Desktop\Main V 5.4\Main\obj\Debug\Main.csproj.GenerateResource.Cache

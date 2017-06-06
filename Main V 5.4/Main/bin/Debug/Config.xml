@@ -1,0 +1,130 @@
+<Kiosk>
+  <Properties id="2147483646">
+    <Name>Agueda</Name>
+    <Path>C:\Agueda\aveiro</Path>
+    <!-->Caminho onde esta a correr o kiosk<!-->
+  </Properties>
+  <Form id="2147483647">
+    <!-->ID num max 32 Bits<!-->
+    <Name>FormMain</Name>
+    <Dynamic>On</Dynamic>
+    <!-->transição de images de fundo<!-->
+    <RandomDynamic>Off</RandomDynamic>
+    <!-->Random na escolha de images de fundo<!-->
+    <Image>
+    </Image>
+    <SizeMode>StretchImage</SizeMode>
+    <BackColor>255,0,0,74</BackColor>
+    <ScreenSaverState>On</ScreenSaverState>
+    <!-->tempo em segundos<!-->
+    <ScreenSaverTime>3600</ScreenSaverTime>
+    <Resolution X="1920" Y="1080" />
+    <!-->tempo em segundos<!-->
+  </Form>
+  <ScreenSaver id="2147483645">
+    <Name>Agueda</Name>
+    <Video>Off</Video>
+    <!-->On - mostra video; Off - Nao mostra video<!-->
+    <VideoUrl>VideoScreen.mp4</VideoUrl>
+    <!-->Nome do video<!-->
+  </ScreenSaver>
+  <ScreenLabel id="46">
+    <!-->Data e/ou hora no ScreenSaver<!-->
+    <Name>DateScreenLbl</Name>
+    <DataFormat>{0:dddd, MMMM d, yyyy}</DataFormat>
+    <FlatStyle>Flat</FlatStyle>
+    <Font FontFamily="Modern No. 20" FontSize="23" Units="3" Bold="True" Italic="False" Underline="False" Strikeout="False" />
+    <BackColor>0,37,37,37</BackColor>
+    <ForeColor>255,255,255,255</ForeColor>
+    <Location X="800" Y="070" />
+    <Size Width="75" Height="35" />
+    <Visible>True</Visible>
+  </ScreenLabel>
+  <ScreenLabel id="47">
+    <!-->Data e/ou hora no ScreenSaver<!-->
+    <Name>TimeScreenLbl</Name>
+    <DataFormat>{0:t}</DataFormat>
+    <FlatStyle>Flat</FlatStyle>
+    <Font FontFamily="Modern No. 20" FontSize="23" Units="3" Bold="True" Italic="False" Underline="False" Strikeout="False" />
+    <BackColor>0,37,37,37</BackColor>
+    <ForeColor>255,255,255,255</ForeColor>
+    <Location X="1000" Y="070" />
+    <Size Width="75" Height="35" />
+    <Visible>True</Visible>
+  </ScreenLabel>
+  <Logout id="2147483644">
+    <Name>Logout</Name>
+    <User>Pecolfix</User>
+    <!-->user para sair do kiosk<!-->
+    <Password>1234</Password>
+    <!-->password para sair do kiosk<!-->
+  </Logout>
+  <!-->==================================Controls=========================================<!-->
+  <Controls>
+    <DateLabel id="20150806160811231">
+      <Name>Foda-se</Name>
+      <Size Width="300" Height="200" />
+      <Location X="1473" Y="896" />
+      <BackColor>255,0,5,0,0</BackColor>
+      <TextAlign>TopLeft</TextAlign>
+      <Font FontFamily="Modern No. 20" FontSize="23" Units="3" Bold="True" Italic="False" Underline="False" Strikeout="False" />
+      <FlatStyle>System</FlatStyle>
+      <ForeColor>255,255,255,255</ForeColor>
+      <Dock>None</Dock>
+      <DataFormat>{0:m}</DataFormat>
+    </DateLabel>
+    <ButtonApplication id="20150806171213111">
+      <Name>Button1</Name>
+      <Shape>Normal</Shape>
+      <Size Width="1654" Height="137" />
+      <Location X="0" Y="35" />
+      <BackColor>54,0,163,0,0</BackColor>
+      <Text>Pecol</Text>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Font FontFamily="Segoe UI" FontSize="69" Units="3" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+      <FlatStyle>Flat</FlatStyle>
+      <Dock>Top</Dock>
+      <ForeColor>0,255,255,255</ForeColor>
+      <FlatAppearance BorderColor="255,0,60,129" BorderSize="7" MouseOverBackColor="0,0,0,0" MouseDownBackColor="0,0,0,0" />
+      <BackgroundImage>
+      </BackgroundImage>
+      <BackgroundImageLayout>None</BackgroundImageLayout>
+      <Action>ButtonApplication</Action>
+    </ButtonApplication>
+    <PictureBox id="50">
+      <Name>PictureBox1</Name>
+      <Font>Segoe UI;35;Regular</Font>
+      <BackColor>0,37,37,37</BackColor>
+      <Location X="735" Y="1000" />
+      <Size Width="175" Height="35" />
+      <Dock>Right</Dock>
+      <Image>
+      </Image>
+      <SizeMode>StretchImage</SizeMode>
+      <BackgroundImage>back.png</BackgroundImage>
+      <BackgroundImageLayout>Stretch</BackgroundImageLayout>
+    </PictureBox>
+    <NewPanel id="51">
+      <Name>Panel1</Name>
+      <BackgroundImage>
+      </BackgroundImage>
+      <BackgroundImageLayout>Stretch</BackgroundImageLayout>
+      <BackColor>255,255,255,255</BackColor>
+      <Location X="0" Y="0" />
+      <Size Width="75" Height="35" />
+      <Dock>Top</Dock>
+    </NewPanel>
+    <Label id="20150811132820403">
+      <Name>Text</Name>
+      <Size Width="100" Height="23" />
+      <Location X="118" Y="61" />
+      <BackColor>255,255,255,255</BackColor>
+      <Text>hjfj</Text>
+      <TextAlign>MiddleRight</TextAlign>
+      <Font FontFamily="Microsoft Sans Serif" FontSize="8" Units="3" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+      <FlatStyle>System</FlatStyle>
+      <ForeColor>255,0,211,12</ForeColor>
+      <Dock>hjfj</Dock>
+    </Label>
+  </Controls>
+</Kiosk>
